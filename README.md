@@ -1,2 +1,2 @@
 # Terminal-SpaceDev
-a terminal with custom commands
+a terminal website, html, css, js. with custom commands
